@@ -1,8 +1,11 @@
 <?php
 
-//1) Crie um programa que escreve o seu nome completo, colocando uma palavra em cada linha.
+/*
+    1) Crie um programa que escreve o seu nome completo, colocando uma palavra em cada linha.
+*/
 
-    $nome = "Caroline Pereira";
+    echo "Digite seu nome e sobrenome: ";
+    $nome = fgets(STDIN);
 
     $partes = explode(" ", $nome);
     if(count($partes) > 1) {

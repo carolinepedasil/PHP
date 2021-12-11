@@ -4,12 +4,10 @@ Para executar o arquivo:
 Abra o PHPMyAdmin
 Verifique se o banco de dados condominiolaravel existe, se não existir, crie o banco de dados sem nenhuma tabela
 
-
 2º Abra a pasta do projeto no VSCode ou navegue até a pasta do projeto via terminal
 
 3º Passo, crie as tabelas
 Digite no terminal: php artisan migrate
-
 
 4º Passo, inicie o projeto
 Digite no terminal: php artisan serve
