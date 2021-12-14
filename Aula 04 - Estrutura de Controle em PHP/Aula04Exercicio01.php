@@ -1,6 +1,6 @@
 <?php
 
-// Exercício fixação IF
+// Exercício fixação - IF
 
 /*
     Crie um algoritmo que leia dois valores (x e y) representando um intervalo. 

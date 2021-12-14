@@ -14,8 +14,7 @@
     		<input type="text" name="usuario" placeholder="Digite seu usuário"><br>
     		<input type="number" name="senha" placeholder="Digite sua senha"><br>Confirme o cadastro:
     		<input type="checkbox" name="confirmar" value="SIM" id="confirma"> <br>		
-		    <button type="submit" class="btn btn-primary" id='botao'>Entrar</button>	
-			 </div>
+		    <button type="submit" class="btn btn-primary" id='botao'>Entrar</button>
 		</form>
 </body>
 </html>

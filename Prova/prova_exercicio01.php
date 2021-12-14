@@ -1,12 +1,12 @@
-/*
-  Crie uma função em PHP que receba o código correspondente ao cargo de um funcionário e seu salário atual 
-  e moste o CARGO, o VALOR DO AUMENTO em reais e seu NOVO SALÁRIO.
-  Os cargos estão na tabela a seguir:
-  Utilize em algum trecho do algoritmo, a estrutura de repetição Switch/Case. 
-  Você deverá incluir na resposta a função e uma chamada para a função.
-*/
-
 <?php
+
+/*
+    Crie uma função em PHP que receba o código correspondente ao cargo de um funcionário e seu salário atual 
+    e moste o CARGO, o VALOR DO AUMENTO em reais e seu NOVO SALÁRIO.
+    Os cargos estão na tabela a seguir:
+    Utilize em algum trecho do algoritmo, a estrutura de repetição Switch/Case. 
+    Você deverá incluir na resposta a função e uma chamada para a função.
+*/
 
 function calculaAumento($codigo, $salario)
 {

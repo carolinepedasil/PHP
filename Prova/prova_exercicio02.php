@@ -18,7 +18,7 @@ if(isset($_POST["anoNascto"])){
     } else {
         echo "Não requer aposentadoria";
     }
-)
+}
 
 ?>
 <!DOCTYPE html>
@@ -30,12 +30,12 @@ if(isset($_POST["anoNascto"])){
     <title>CalculaAposentadoria</title>
 </head>
 <body>
-        <form method="POST"" action="prova3.php">
+        <form method="POST" action="prova3.php">
         <label for="anoNascto">Ano Nascimento </label>
-        <input type="text" name="anoNascto" id="anoNascto"
+        <input type="text" name="anoNascto" id="anoNascto">
 
         <label for="anoNascto">Ano Ingresso </label>
-        <input type="text" name="anoIngresso" id="anoIngresso"
+        <input type="text" name="anoIngresso" id="anoIngresso">
 
         <input type="submit" value="Calcular"/>
         </form>
