@@ -1,16 +1,16 @@
-#Programação em Scripts
+# Programação em Scripts
 
 Exercícios feitos na linguagem PHP na matéria de Programação em Scripts na faculdade de Análise e Desenvolvimento de Sistemas.
 
-##Objetivo
+## Objetivo
 
 Entender e aplicar conceitos de desenvolvimento de scripts em sistemas para internet bem como os padrões, técnicas e ferramentas associados.
 
-##Ementa
+## Ementa
 
 Tecnologias e Padrões de navegadores. Arquitetura de aplicações para Internet. Programação do lado Cliente e seus padrões. Construção de páginas dinâmicas e interativas. Acesso a banco de dados através de uma linguagem de programação. Construção de uma GUI (Graphical User Interface) para um aplicativo de banco de dados. Modelagem Visualização e Controle (Model View Controller) e outros.
 
-##Plano de Aula
+## Plano de Aula
 
 |   Aulas  |                               Conteúdo                               |
 | -------- | -------------------------------------------------------------------- |
